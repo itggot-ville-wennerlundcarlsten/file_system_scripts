@@ -1,0 +1,3 @@
+namn = ARGV
+
+p namn
